@@ -8,7 +8,7 @@ Původní definice Big Data se opírala o "tři V", ale postupem času se ukáza
 
 *   **Volume (Objem):**
     
-    *   Jedná se o samotné množství dat, které je potřeba uložit a zpracovat. Hovoříme o jednotkách jako jsou **terabajty (TB)** (1012 bajtů), **petabajty (PB)** (1015 bajtů), **exabajty (EB)** (1018 bajtů) a dokonce **zettabajty (ZB)** (1021 bajtů).
+    *   Jedná se o samotné množství dat, které je potřeba uložit a zpracovat. Hovoříme o jednotkách jako jsou **terabajty (TB)** (10^12 bajtů), **petabajty (PB)** (10^15 bajtů), **exabajty (EB)** (10^18 bajtů) a dokonce **zettabajty (ZB)** (10^21 bajtů).
         
     *   **Příklady zdrojů:**
         
