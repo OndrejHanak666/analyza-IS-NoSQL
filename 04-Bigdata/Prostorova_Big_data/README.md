@@ -7,7 +7,7 @@
 * Příkladem takového záznamu jsou GPS souřadnice, tedy zeměpisná šířka (např. 49.195), zeměpisná délka (např. 16.606) a časový údaj (např. 07:35:00).
 * V moderním světě vznikají každý den miliony nových záznamů.
 * Zdrojem těchto lokačních dat jsou běžně používaná zařízení a služby, jako je každý chytrý telefon, auta s navigací, systémy hromadné dopravy, sdílené koloběžky nebo i bankovní transakce.
-* Cílem tohoto projektu a ukázky je představit, jak je možné se na tyto obrovské sady dat napojit a jak je zpracovat rovnou v prohlížeči.
+* Cílem této prezentace a ukázky je představit, jak je možné se na tyto obrovské sady dat napojit a jak je zpracovat rovnou v prohlížeči.
 * Na příkladu dopravních nehod v ČR si lze ukázat, jak z jinak nepřehledné databáze vytvořit interaktivní 3D model.
 
 ---
@@ -18,7 +18,6 @@
 * I v případě, že by prohlížeč dokázal body zpracovat, naskládání milionu teček přes sebe vytvoří vizuální chaos plný nečitelných barevných fleků.
 * Analýza Big Dat proto vyžaduje změnu přístupu, protože cílem není hledat jeden konkrétní taxík nebo jednu specifickou nehodu.
 * K efektivní analýze potřebujeme nástroj, který dokáže data na pozadí matematicky agregovat (sečíst) a vizualizovat širší trendy.
-* Lze tak například snadno odhalit, které křižovatky jsou z plošného hlediska ty nejnebezpečnější.
 
 ---
 
